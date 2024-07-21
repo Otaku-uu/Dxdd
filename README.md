@@ -1,4 +1,6 @@
 # Dxdd
+[![Discord](https://img.shields.io/discord/555474311637499955?label=discord)](https://discord.gg/fXR6TErSca)
+
 Simple gorilla tag injector with mods.
 
 ## Before Installing
