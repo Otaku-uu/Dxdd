@@ -11,4 +11,4 @@ or create a ticket in the discord!
 
 
 
-![Dxdd](https://cdn.discordapp.com/attachments/1264609525747421369/1264609537214906471/image.png?ex=669e7ee8&is=669d2d68&hm=f1df3ee484fc4bf69fc9478a1d12528a1607c60b603bcf7707ebf72a138ef10e&)
+![Dxdd](https://cdn.discordapp.com/attachments/1264609525747421369/1264610514735202394/image.png?ex=669e7fd2&is=669d2e52&hm=f2afec06462381f340db544f0477226a78788ffea416221f66f1e3846e345530&)
