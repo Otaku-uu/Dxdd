@@ -1,5 +1,5 @@
 # Dxdd
-[![Discord](https://img.shields.io/discord/555474311637499955?label=discord)](https://discord.gg/fXR6TErSca)
+[![Discord](https://img.shields.io/discord/1114388554873831484?label=discord)](https://discord.gg/fXR6TErSca)
 
 Simple gorilla tag injector with mods.
 
