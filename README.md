@@ -1,6 +1,9 @@
 # Dxdd
-### Simple gorilla tag injector with mods.
+Simple gorilla tag injector with mods.
 
-Made by Otaku
-Any questions or help regarding the software please DM poop3444
+## Before Installing
+My software is not ratted, and make sure that you disable your anti-virus since it may get flagged for Trojan:Win32/Injector which is just the injector injecting the mod into the game!
+
+### Made by Otaku
+Any questions or help regarding the software please DM my discord which is poop3444
 or create a ticket in the discord!
