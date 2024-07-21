@@ -1,2 +1,5 @@
 # Dxdd
-Gorilla tag mono injector and mods for comp
+[![Discord](https://discord.gg/fXR6TErSca)
+
+======
+
