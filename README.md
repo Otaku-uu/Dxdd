@@ -1,5 +1,5 @@
 # Dxdd
-[![Discord](https://discord.gg/fXR6TErSca)
+[![JavaScript](https://github.com/voodootikigod/logo.js/raw/master/js.png)
 
 ======
 
