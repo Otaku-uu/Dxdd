@@ -5,7 +5,7 @@
 ## Before Installing
 Before installing the dxdd folder, please temporarily disable your antivirus software, as it may mistakenly flag the file inside the folder as malicious. If you have any doubts about the file’s safety, you can verify it by scanning it on VirusTotal or open it in a VirtualMachine.
 
-# Steps
+## Steps
 
 Here are the steps for installation:
 
