@@ -12,7 +12,6 @@ Here are the steps for installation:
 - Go to the GitHub releases page.
 - Under the assets section, find and download dxdd.zip.
 - Extract and run the dxdd.exe file.
-- Once the installation is complete, open Gorilla Tag. You don't need to install BepInEx or modify any other game files. You should see a new user interface within the game.
 
 After, open the software and open gorilla tag and type inject --1 or choose any option from 1 to 4 and press Enter. Each cheat option is numbered for your convenience. You'll see a small success message appear in the top left corner and the option chosen will have a green text that will say True, indicating that you're all set!
 
