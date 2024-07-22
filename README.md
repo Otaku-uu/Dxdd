@@ -3,7 +3,20 @@
 ![Downloads](https://img.shields.io/github/downloads/Otaku-uu/Dxdd/latest/total?label=downloads)
 
 ## Before Installing
-My software is not ratted, and make sure that you disable your anti-virus since it may get flagged for Trojan:Win32/Injector which is just the injector injecting the mod into the game!
+Before installing the dxdd folder, please temporarily disable your antivirus software, as it may mistakenly flag the file inside the folder as malicious. If you have any doubts about the file’s safety, you can verify it by scanning it on VirusTotal or open it in a VirtualMachine.
+
+# Steps
+
+Here are the steps for installation:
+
+- Go to the GitHub releases page.
+- Under the assets section, find and download dxdd.zip.
+- Extract and install the dxdd.exe file.
+- Once the installation is complete, open Gorilla Tag. You don't need to install BepInEx or modify any other game files. You should see a new user interface within the game.
+
+**Example: type inject --1 or any other option from 1 to 4 and press enter on your keyboard**
+you should see a little sucess text on the top left.
+Then you should be all set!
 
 ### Made by Otaku
 Any questions or help regarding the software please DM my discord which is poop3444
