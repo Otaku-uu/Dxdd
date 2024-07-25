@@ -15,10 +15,10 @@ Here are the steps for installation:
 
 After, open the software and open gorilla tag and type `inject --1` or choose any option from 1 to 5 and press Enter. Each cheat option is numbered for your convenience. You'll see a small success message appear in the top left corner and the option chosen will have a green text that will say True, indicating that you're all set!
 
-### Made by Otaku
+### Credits
 Any questions or help regarding the software please DM my discord which is poop3444
 or create a ticket in the discord!
-
+Made by Otaku and   [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 
 ![Dxdd](https://cdn.discordapp.com/attachments/1263050558055383112/1265634319783952438/image.png?ex=66a23950&is=66a0e7d0&hm=401910a2bde5248d81979eb59c322155f4406ce40cc092056c70d8f22f40f6bd&)
