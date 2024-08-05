@@ -1,4 +1,5 @@
 # Dxdd
+The future of gorilla tag competative cheating
 [![Discord](https://img.shields.io/discord/1114388554873831484?label=discord)](https://discord.gg/fXR6TErSca)
 ![Downloads](https://img.shields.io/github/downloads/Otaku-uu/Dxdd/latest/total?label=downloads)
 
