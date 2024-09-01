@@ -14,7 +14,13 @@ Here are the steps for installation:
 - Under the assets section, find and download dxdd.zip.
 - Extract and run the dxdd.exe file.
 
-After, open the software and open gorilla tag and type `inject --1` or choose any option from 1 to 5 and press Enter. Each cheat option is numbered for your convenience. You'll see a small success message appear in the top left corner and the option chosen will have a green text that will say True, indicating that you're all set!
+After, open the software and open gorilla tag and type `inject` and press Enter. Each cheat option is numbered for your convenience. You'll see a small success message appear in the top left corner and the option chosen will have a green text that will say True, indicating that you're all set!
+
+### Commands
+
+- Left_Alt: Toggles GUI
+- Right_Joystick: Tag Aura
+- Left_Joystick: Speed boost / pitgeo
 
 ### Made by Otaku
 Any questions or help regarding the software please DM my discord which is poop3444
