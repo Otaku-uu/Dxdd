@@ -20,5 +20,5 @@ After, open the software and open gorilla tag and type `inject --1` or choose an
 Any questions or help regarding the software please DM my discord which is poop3444
 or create a ticket in the discord!
 
-![Dxdd]([https://media.discordapp.net/attachments/1264925693179985950/1278523468186517619/image.png?ex=66d5ba84&is=66d46904&hm=ed0b632953fc476fdf5d77c64919fa8e373493d177202a319be29b4469823cd6&=&format=webp&quality=lossless])
+![Dxdd](https://media.discordapp.net/attachments/1264925693179985950/1278523468186517619/image.png?ex=66d5ba84&is=66d46904&hm=ed0b632953fc476fdf5d77c64919fa8e373493d177202a319be29b4469823cd6&=&format=webp&quality=lossless)
 
