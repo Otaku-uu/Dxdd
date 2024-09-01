@@ -21,4 +21,5 @@ Any questions or help regarding the software please DM my discord which is poop3
 or create a ticket in the discord!
 
 ![Dxdd](https://media.discordapp.net/attachments/1264925693179985950/1278523468186517619/image.png?ex=66d5ba84&is=66d46904&hm=ed0b632953fc476fdf5d77c64919fa8e373493d177202a319be29b4469823cd6&=&format=webp&quality=lossless)
+![Dxdd](https://cdn.discordapp.com/attachments/1235461107305549894/1279878664972140664/image.png?ex=66d60b64&is=66d4b9e4&hm=19e2fdfeb8fd8da8fa08d0dbe922bc53df0744fa5986a1396d4a8d32af233e8d&)
 
