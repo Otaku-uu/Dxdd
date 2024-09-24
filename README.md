@@ -26,5 +26,5 @@ After, open the software and open gorilla tag and type `inject` and press Enter.
 Any questions or help regarding the software please DM my discord which is poop3444
 or create a ticket in the discord!
 
-![image](https://github.com/user-attachments/assets/78226134-7bb7-4ea2-9b85-4ddfc319c1f9)
+![image](https://github.com/user-attachments/assets/4a87f526-058d-4366-86e5-bf022efbed81)
 
